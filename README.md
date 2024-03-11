@@ -1,1 +1,0 @@
-# Model-for-breaking-a-Companion-Arbiter-PUF
